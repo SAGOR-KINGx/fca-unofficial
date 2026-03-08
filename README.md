@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💬 @sagor/fca-unofficial
+# 💬 sagor-nx-fca
 
 **Unofficial Facebook Chat API for Node.js** - Interact with Facebook Messenger programmatically
 
